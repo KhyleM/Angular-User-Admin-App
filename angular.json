@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-user-admin"
+    }
+  },
+  "defaultProject": "angular-user-admin",
+  "cli": {
+    "analytics": false
+  }
 }
